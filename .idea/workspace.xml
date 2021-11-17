@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4488818-3a69-468e-a001-8da195095942" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="a4488818-3a69-468e-a001-8da195095942" name="Default Changelist" comment="ddd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,8 +66,23 @@
       <updated>1636996239987</updated>
       <workItem from="1636996241035" duration="1471000" />
       <workItem from="1637080644449" duration="2492000" />
-      <workItem from="1637163635443" duration="3572000" />
+      <workItem from="1637163635443" duration="3903000" />
     </task>
+    <task id="LOCAL-00001" summary="www">
+      <created>1637167261007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637167261008</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ddd">
+      <created>1637167398926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637167398926</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +100,16 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="www" />
+    <MESSAGE value="ddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ddd" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="841" y="404" key="Vcs.Push.Dialog.v2" timestamp="1637167404802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="841" y="404" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637167404802" />
     <state x="805" y="271" key="run.anything.popup" timestamp="1637163842349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
